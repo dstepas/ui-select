@@ -1,7 +1,7 @@
 /*!
  * @dstepas/ui-select
  * https://github.com/dstepas/ui-select
- * Version: 0.19.9 - 2025-09-04T10:37:40.271Z
+ * Version: 0.19.11 - 2025-09-04T10:57:07.296Z
  * License: MIT
  */
 
@@ -315,6 +315,7 @@ body > .ui-select-bootstrap.open {
   padding: 5px 0;
   margin: 0;
   list-style: none;
+}
 
 .ui-select-bootstrap .ui-select-header-group-selectable:hover {
     background-color: #f5f5f5;

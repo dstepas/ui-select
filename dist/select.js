@@ -1,7 +1,7 @@
 /*!
  * @dstepas/ui-select
  * https://github.com/dstepas/ui-select
- * Version: 0.19.9 - 2025-09-04T10:37:40.078Z
+ * Version: 0.19.11 - 2025-09-04T10:57:07.101Z
  * License: MIT
  */
 
