@@ -1,5 +1,5 @@
 {
-  "name": "ui-select",
+  "name": "@dstepas/ui-select",
   "main": "./index.js",
   "author": "http://github.com/angular-ui/ui-select/graphs/contributors",
   "homepage": "https://github.com/dstepas/ui-select",
@@ -7,7 +7,7 @@
     "url": "git@github.com:dstepas/ui-select.git"
   },
   "style": "dist/select.css",
-  "version": "0.19.9",
+  "version": "0.19.10",
   "devDependencies": {
     "angular": "^1.2.18",
     "angular-mocks": "^1.2.18",

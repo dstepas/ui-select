@@ -1,4 +1,4 @@
-uis.directive('uiSelectSingle', ['$timeout','$compile', function($timeout, $compile, $interpolate) {
+uis.directive('uiSelectSingle', ['$timeout','$compile', '$interpolate', function($timeout, $compile, $interpolate) {
   return {
     restrict: 'EA',
     require: ['^uiSelect', '^ngModel'],

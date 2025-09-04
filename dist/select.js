@@ -1,7 +1,7 @@
 /*!
- * ui-select
+ * @dstepas/ui-select
  * https://github.com/dstepas/ui-select
- * Version: 0.19.9 - 2025-09-04T10:21:35.470Z
+ * Version: 0.19.9 - 2025-09-04T10:37:40.078Z
  * License: MIT
  */
 
@@ -2122,7 +2122,7 @@ uis.directive('uiSelectNoChoice',
         };
     }]);
 
-uis.directive('uiSelectSingle', ['$timeout','$compile', function($timeout, $compile, $interpolate) {
+uis.directive('uiSelectSingle', ['$timeout','$compile', '$interpolate', function($timeout, $compile, $interpolate) {
   return {
     restrict: 'EA',
     require: ['^uiSelect', '^ngModel'],
